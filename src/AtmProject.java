@@ -11,6 +11,9 @@ public class AtmProject {
 
         System.out.println("Meco branchi kodlarini yazdi");
         //version mc1
+
+        System.out.println("bir takim kodlar");
+        //meco2
     }
 
 
