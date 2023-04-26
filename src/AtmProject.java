@@ -14,6 +14,8 @@ public class AtmProject {
 
         System.out.println("bir takim kodlar");
         //meco2
+        System.out.println();
+        //meco3
     }
 
 
