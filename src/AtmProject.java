@@ -18,6 +18,7 @@ public class AtmProject {
         //meco3
         System.out.println();
         //localde degisiklik yaptim.
+        //remote da degisiklik yaptim
     }
 
 
